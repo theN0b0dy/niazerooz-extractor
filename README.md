@@ -1,5 +1,5 @@
 # niazerooz-extractor
-extract information from https://www.niazerooz.com/ website // استخراج اطلاعات از سایت https://www.niazerooz.com/
+extract information from https://www.niazerooz.com/ website //   استخراج اطلاعات از سایت https://www.niazerooz.com/ نیازه روز
 
 ## before run script
 ### please before run the script first install the requiremets : scrapy and requests
